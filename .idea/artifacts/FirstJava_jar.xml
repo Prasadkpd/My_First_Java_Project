@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirstJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstJava_jar</output-path>
+    <root id="archive" name="FirstJava.jar">
+      <element id="module-output" name="FirstJava" />
+    </root>
+  </artifact>
+</component>
